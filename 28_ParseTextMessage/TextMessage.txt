@@ -1,0 +1,5 @@
+[Web Message]
+Sunday 2022-06-19 17:55:02.035
+student@email.com     
+Course                ABCD1500
+Term                    202205
